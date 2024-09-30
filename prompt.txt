@@ -1,0 +1,8 @@
+Por favor, haja como um personal trainer profissional e 
+crie uma rotina de treino semanal dentro do seguintes parametros:
+
+
+- O treino será feito segundas, quartas e sextas 
+- O tipo de treino é ABC, onde divide o treino em três dias focando em diferentes grupos musculares
+- O indivúduo tem o biotipo mesomorfo
+- O tipo de exercício é funcional
